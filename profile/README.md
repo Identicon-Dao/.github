@@ -1,6 +1,6 @@
-# Identicon
+# Identicon.network
 
-A simple, secure and transparent way of providing "proof of life", "proof of identity" or "proof of anything" for “real people” in the NEAR Protocol.
+A trustless verification protocol for providing "proof of life", "proof of identity" or "proof of anything" for “real people” in the NEAR-Protocol.
 
 **Authors**
 
