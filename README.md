@@ -1,3 +1,3 @@
-# DAO documents
+# Documents
 
-This is the repo for all this DA organization (DAO) documents and papers.
+This is the repo for all the protocol and DAO documents.
