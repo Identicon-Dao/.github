@@ -1,6 +1,14 @@
-# Identicon.network
+# Identicon DAO
 
-A trustless verification protocol for providing "proof of life", "proof of identity" or "proof of anything" for “real people” in the NEAR-Protocol.
+A DAO for managing the `identicon.network` and it's protocol.
+
+## Briefing
+
+`Identicon.network` is a trustless protocol for identity verification in the NEAR network, focused on providing multiple signed verifications of a real world entity and binding it to one (or more) digital identities, and independent of the form these digital identities may take (NFT, DID, etc).  It is not an identity vault or a repo for unique identity. 
+
+Is based on a set of decentralized and random selection of human nodes (citizens) which will produce the “on-site” verification of the solicited identity,  proof of life or proof of existence.
+
+Typical use cases are "proof of life", "proof of identity" or "proof of anything" for “real people” in the NEAR network. 
 
 **Authors**
 
@@ -13,12 +21,6 @@ A trustless verification protocol for providing "proof of life", "proof of ident
 - Feb 23 2022 - @LM - reviewed, commented, Web3 terminology
 - Mar 11 2022 - @MAZ - presented as Identicon.network (NCA project)
 - Mar 18 2022 - @LM, @MAZ - reformulated as a verification protocol
-
-## Briefing
-
-Identicon is a trustless protocol for identity verification in the NEAR network, focused on providing multiple signed verifications of a real world entity and binding it to one (or more) digital identities, and independent of the form these digital identities may take (NFT, DID, etc).  It is not an identity vault or a repo for unique identity. 
-
-Is based on a set of decentralized and random selection of human nodes (citizens) which will produce the “on-site” verification of the solicited identity,  proof of life or proof of existence.
 
 ## Features:
 
