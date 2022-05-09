@@ -45,7 +45,7 @@ We think that solving this problem provides anticipated social and identity frau
 
 It also opens a whole set of use cases where these validated identities can be safely used, with deep social and economic impacts.
 
-There have been various approaches in the Web3 community for solving this, we mention four here:
+There have been various approaches in the Web3 community for solving this, we mention five here:
 
 - Self-sovereign identity (en.wikipedia.org/wiki/Self-sovereign_identity)
 - Bright ID (www.brightid.org): Identity is a human right. BrightID is a social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity.
