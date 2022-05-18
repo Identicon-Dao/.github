@@ -10,17 +10,30 @@ Is based on a set of decentralized and random selection of human nodes (citizens
 
 Typical use cases are "proof of life", "proof of identity" or "proof of anything" for “real people” in the NEAR network. 
 
+**Whitepaper**
+
+[Preliminar white paper (work in progress)](https://docs.google.com/document/d/1lDRp3crvEXCSTWXkbAY-ONF3Barg7jDoOdzxh1UjYmE/edit?usp=sharing)
+
 **Authors**
 
 - Mario A. Zito (mazito.v2@gmail.com, @MAZ)
 - Leandro Manzanal (leomanzanal@gmail.com, @LM)
+- Juan Mescher (juanmescher@gmail.com, @JM)
 
 **Changelog:**
 
-- Feb 14 2022 - @MAZ - preliminar doc of proof of life service run by a DAO
+- Feb 14 2022 - @MAZ - preliminar doc of Proof of Life service run by a DAO
 - Feb 23 2022 - @LM - reviewed, commented, Web3 terminology
-- Mar 11 2022 - @MAZ - presented as Identicon.network (NCA project)
+- Mar 11 2022 - @MAZ - presented as Identicon.network as NCA project
 - Mar 18 2022 - @LM, @MAZ - reformulated as a verification protocol
+- Mar 28 2022 - @MAZ, @JM - first naive implementation as NCD project
+- May 09 2022 - @MAZ - add improvements as part of NCAR project
+- May 16 2022 - @JM, @LM, @MAZ - started ad DiR project in NEAR Hispano 
+
+**Repositories:**
+
+- First naive implementation (NCD 2022-03-11): https://github.com/identicondapp/identicon (`master` branch)
+- Improvements (NCAR 2022-05-09) https://github.com/identicondapp/identicon/tree/ncar/maz (`ncar/maz` branch)
 
 ## Features:
 
