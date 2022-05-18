@@ -12,7 +12,7 @@ Typical use cases are "proof of life", "proof of identity" or "proof of anything
 
 **Whitepaper**
 
-[Preliminar white paper (work in progress)](https://docs.google.com/document/d/1lDRp3crvEXCSTWXkbAY-ONF3Barg7jDoOdzxh1UjYmE/edit?usp=sharing)
+The protocol scope, comparison and research of current solutions, as well as additional resources under consideration can be found at our [Preliminar white paper (work in progress)](https://docs.google.com/document/d/1lDRp3crvEXCSTWXkbAY-ONF3Barg7jDoOdzxh1UjYmE/edit?usp=sharing)
 
 **Authors**
 
