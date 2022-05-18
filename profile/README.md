@@ -28,7 +28,7 @@ The protocol scope, comparison and research of current solutions, as well as add
 - Mar 18 2022 - @LM, @MAZ - reformulated as a verification protocol
 - Mar 28 2022 - @MAZ, @JM - first naive implementation as NCD project
 - May 09 2022 - @MAZ - add improvements as part of NCAR project
-- May 16 2022 - @JM, @LM, @MAZ - started ad DiR project in NEAR Hispano 
+- May 16 2022 - @JM, @LM, @MAZ - starting as DiR project in NEAR Hispano 
 
 **Repositories:**
 
