@@ -1,11 +1,12 @@
 # Identicon DAO
 
-As a team we are focused on blockchain enabled attestation protocols, projects and products. 
+As a team we are focused on identity and blockchain enabled attestation protocols, tools, projects and products. 
 
 This is the home for managing all the DAO projects and repos.
 
 Our web home: [identicon.network](http://identicon.network)
 
+**Tags**: `identity` `attestation` `credentials`
 
 ### `Streamlining Web3 credentials (zkIgnite Cohort1)`
 
