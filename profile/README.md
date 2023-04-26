@@ -25,7 +25,7 @@ It is also designed to be community-driven, allowing each community to set its o
 **Repository**: https://github.com/Identicon-Dao/socialcap
 
 
-### Project `Identicon on NEAR protocol`
+### Project `Identicon Proof of Life` (NEAR protocol)
 
 A trustless protocol for "Proof of Life" verification in the NEAR network, focused on providing multiple signed verifications of a real world entity and binding it to one (or more) digital identities, and independent of the form these digital identities may take (NFT, DID, etc). 
 
