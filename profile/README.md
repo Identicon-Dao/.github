@@ -4,7 +4,7 @@ As a team we are focused on identity and blockchain enabled attestation protocol
 
 This is the home for managing all the DAO projects and repos.
 
-Our web home: [identicon.network](http://identicon.network)
+**www**: [identicon.network](http://identicon.network)
 
 **Tags**: `identity` `attestation` `credentials`
 
