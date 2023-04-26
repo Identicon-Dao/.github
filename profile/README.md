@@ -1,8 +1,10 @@
 # Identicon DAO
 
-A DAO for managing the `identicon.network` and it's associated protocols. 
+As a team we are focused on blockchain enabled attestation protocols, projects and products. 
 
-We work on blockchain enabled attestation protocols and projects:
+This is the home for managing all the DAO projects and repos.
+
+Our web home: [identicon.network](http://identicon.network)
 
 
 ### `Streamlining Web3 credentials (zkIgnite Cohort1)`
