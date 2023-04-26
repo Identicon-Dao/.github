@@ -6,7 +6,7 @@ This is the home for managing all the DAO projects and repos.
 
 **www**: [identicon.network](http://identicon.network)
 
-**Tags**: `identity` `attestation` `credentials`
+**Tags**: `Identity` `Attestation` `Credentials` `Web3` `NEAR` `MINA`
 
 ### Project `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
 
