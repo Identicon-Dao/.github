@@ -20,7 +20,9 @@ It is also designed to be community-driven, allowing each community to set its o
 
 **Initial proposal**: https://zkignite.minaprotocol.com/zkignite/zkapp-track-1/funded/suggestion/271
 
-**Whitepaper**:
+**Whitepaper**: https://github.com/Identicon-Dao/socialcap/blob/main/whitepaper.md
+
+**Repository**: https://github.com/Identicon-Dao/socialcap
 
 
 ### `Identicon.near`
