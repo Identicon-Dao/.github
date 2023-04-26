@@ -8,7 +8,7 @@ This is the home for managing all the DAO projects and repos.
 
 **Tags**: `identity` `attestation` `credentials`
 
-### `Streamlining Web3 credentials (zkIgnite Cohort1)`
+### Project `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
 
 A community-based attestation protocol that enables easy self-validation and issuance of credentials using a transparent and repeatable process, while preserving privacy and confidentiality.
 
@@ -25,7 +25,7 @@ It is also designed to be community-driven, allowing each community to set its o
 **Repository**: https://github.com/Identicon-Dao/socialcap
 
 
-### `Identicon.near`
+### Project `Identicon on NEAR protocol`
 
 A trustless protocol for "Proof of Life" verification in the NEAR network, focused on providing multiple signed verifications of a real world entity and binding it to one (or more) digital identities, and independent of the form these digital identities may take (NFT, DID, etc). 
 
