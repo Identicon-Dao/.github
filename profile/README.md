@@ -8,6 +8,8 @@ This is the home for managing all our projects and repos.
 
 ### Project `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
 
+Now called `Socialcap`: https://socialcap.app
+
 A community-based attestation protocol that enables easy self-validation and issuance of credentials using a transparent and repeatable process, while preserving privacy and confidentiality.
 
 By using social proof, validators anonymity, random selection, secret voting, self-auditing, and community rules, our protocol ensures that the validation process is fair, unbiased, and reliable.
