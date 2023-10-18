@@ -1,8 +1,8 @@
-# Identicon DAO
+# Identicon
 
 As a team we are focused on identity and blockchain enabled attestation protocols, tools, projects and products. 
 
-This is the home for managing all the DAO projects and repos.
+This is the home for managing all our projects and repos.
 
 **www**: [identicon.network](http://identicon.network)
 
