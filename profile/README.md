@@ -4,8 +4,6 @@ As a team we are focused on identity and blockchain enabled attestation protocol
 
 This is the home for managing all our projects and repos.
 
-**www**: [identicon.network](http://identicon.network)
-
 **Tags**: `Identity` `Attestation` `Credentials` `Web3` `NEAR` `MINA`
 
 ### Project `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
