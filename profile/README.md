@@ -15,6 +15,8 @@ At this current moment in time, very few people in the Open Web communities will
 
 In broader terms, as posted in the [Wikipedia credentials definition](https://en.wikipedia.org/wiki/Credential): "A credential is a piece of any document that details a qualification, competence, or authority which has been issued to an individual by a third party with a relevant or de facto authority or assumed competence to do so. Examples of credentials include academic diplomas, academic degrees, certifications, security clearances, identification documents, badges, passwords, user names, keys, powers of attorney, and so on ...". Socialcap aims to cover this broader definition by supporting many of the mentioned use cases. 
 
+#### Why ?
+
 But this also leads to additional questions: Who is the "issuer" of the credential? Can we trust them? Can we prove in some way that the credential has been correctly issued? That it has not been "faked" or "tampered" with? Is it still valid?
 
 In [Socialcap](https://www.socialcap.app), we tackle these issues in an innovative way:
@@ -25,7 +27,7 @@ In [Socialcap](https://www.socialcap.app), we tackle these issues in an innovati
 
 `Socialcap` goes beyond traditional credentialing systems, offering community based decentralized voting and issuance, and a privacy-focused solution that aligns with the principles of the Open Web communities. **By combining social consensus and MINA's ZK unique capabilities, we have established a robust and reliable credentialing system for the future of online communities.**
 
-### Our goal for Socialcap 
+#### Our goal
 
 Become the most flexible and robust tool for all Web communities, showcasing a real-world zkApp empowered by the privacy and proving capabilities of MINA. We also aim for it to be developed "in the open" with active participation from the fantastic MINA community.
 
