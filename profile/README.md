@@ -1,14 +1,21 @@
 # Identicon DAO
 
-As a team we are focused on the use of `blockchains` and `zero knowledge proofs` to build `identity` and community based `attestation protocols`, tools and products.
+We are focused on the use of `blockchains` and `zero knowledge proofs` to build `identity` and community based `attestation protocols`, tools and products.
 
 This is the home for managing all our projects and repos.
 
 **Tags**: `Identity` `Attestation` `Credentials` `Web3` `NEAR` `MINA` `Blockchain` `Zero Knowledge`
 
+### The team
+
+- [Leandro Manzanal](https://github.com/orgs/Identicon-Dao/people/leomanza)
+- [Mario Zito](https://github.com/orgs/Identicon-Dao/people/mazito)
+
 ---
 
-### Project `Socialcap v2: on the Road to Mainnet` (MINA zkIgnite Cohort3)
+# Projects
+
+### `Socialcap v2: on the Road to Mainnet` (MINA zkIgnite Cohort3)
 
 Communities are the heart and soul of Web3, and credentials are the new foundation for building trust and reputation within them. 
 At this current moment in time, very few people in the Open Web communities will argue against this. But  credentials may assume various types and forms. 
@@ -39,7 +46,7 @@ See our proposal: [Socialcap v2: on the Road to Mainnet](https://zkignite.minapr
 
 ---
 
-### Project `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
+### `Streamlining Web3 credentials` (MINA zkIgnite Cohort1)
 
 Now called `Socialcap`: https://socialcap.app
 
@@ -59,7 +66,7 @@ It is also designed to be community-driven, allowing each community to set its o
 
 ---
 
-### Project `Identicon Proof of Life` (NEAR protocol)
+### `Identicon Proof of Life` (NEAR protocol)
 
 A trustless protocol for "Proof of Life" verification in the NEAR network, focused on providing multiple signed verifications of a real world entity and binding it to one (or more) digital identities, and independent of the form these digital identities may take (NFT, DID, etc). 
 
