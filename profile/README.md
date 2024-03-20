@@ -1,10 +1,10 @@
 # Identicon DAO
 
-As a team we are focused on `identity` and `blockchain enabled attestation protocols`, tools, projects and products. 
+As a team we are focused on the use of `blockchains` and `zero knowledge proofs` to build `identity` and community based `attestation protocols`, tools and products.
 
 This is the home for managing all our projects and repos.
 
-**Tags**: `Identity` `Attestation` `Credentials` `Web3` `NEAR` `MINA`
+**Tags**: `Identity` `Attestation` `Credentials` `Web3` `NEAR` `MINA` `Blockchain` `Zero Knowledge`
 
 ---
 
@@ -13,7 +13,9 @@ This is the home for managing all our projects and repos.
 Communities are the heart and soul of Web3, and credentials are the new foundation for building trust and reputation within them. 
 At this current moment in time, very few people in the Open Web communities will argue against this. But  credentials may assume various types and forms. 
 
-In broader terms, as posted in the [Wikipedia credentials definition](https://en.wikipedia.org/wiki/Credential): "A credential is a piece of any document that details a qualification, competence, or authority which has been issued to an individual by a third party with a relevant or de facto authority or assumed competence to do so. Examples of credentials include academic diplomas, academic degrees, certifications, security clearances, identification documents, badges, passwords, user names, keys, powers of attorney, and so on ...". Socialcap aims to cover this broader definition by supporting many of the mentioned use cases. 
+In broader terms, as posted in the [Wikipedia credentials definition](https://en.wikipedia.org/wiki/Credential): "A credential is a piece of any document that details a qualification, competence, or authority which has been issued to an individual by a third party with a relevant or de facto authority or assumed competence to do so. Examples of credentials include academic diplomas, academic degrees, certifications, security clearances, identification documents, badges, passwords, user names, keys, powers of attorney, and so on ...". 
+
+At Socialcap we aim to cover this broader definition by supporting many of the mentioned use cases. 
 
 #### Why ?
 
