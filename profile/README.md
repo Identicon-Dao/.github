@@ -17,7 +17,7 @@ In broader terms, as posted in the [Wikipedia credentials definition](https://en
 
 But this also leads to additional questions: Who is the "issuer" of the credential? Can we trust them? Can we prove in some way that the credential has been correctly issued? That it has not been "faked" or "tampered" with? Is it still valid?
 
-In [Socialcap](https://www.socialcap.app), we tackle these issues in an innovative way. **By combining social consensus and MINA's ZK unique capabilities, we have established a robust and reliable credentialing system for the future of online communities**.
+In [Socialcap](https://www.socialcap.app), we tackle these issues in an innovative way:
 
 \> We empower communities and their members to issue credentials through a mechanism of 'social consensus', achieved via various forms of 'voting'. 
 
@@ -25,7 +25,9 @@ In [Socialcap](https://www.socialcap.app), we tackle these issues in an innovati
 
 `Socialcap` goes beyond traditional credentialing systems, offering community based decentralized voting and issuance, and a privacy-focused solution that aligns with the principles of the Open Web communities. **By combining social consensus and MINA's ZK unique capabilities, we have established a robust and reliable credentialing system for the future of online communities.**
 
-\> Our goal for Socialcap is to become the most flexible and robust tool for all Web communities, showcasing a real-world zkApp empowered by the privacy and proving capabilities of MINA. We also aim for it to be developed "in the open" with active participation from the fantastic MINA community.
+### Our goal for Socialcap 
+
+Become the most flexible and robust tool for all Web communities, showcasing a real-world zkApp empowered by the privacy and proving capabilities of MINA. We also aim for it to be developed "in the open" with active participation from the fantastic MINA community.
 
 To reach this goal, additional effort is needed from both our team and other members of the MINA community. Therefore, this proposal outlines new features and areas of collaboration with other outstanding MINA community members.
 
